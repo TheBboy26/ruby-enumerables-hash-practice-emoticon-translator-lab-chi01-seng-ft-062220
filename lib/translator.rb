@@ -1,7 +1,7 @@
-require "yalml"
+require "yaml"
 
 def load_library
-
+emoticon = YAML
 end
 
 def get_japanese_emoticon
